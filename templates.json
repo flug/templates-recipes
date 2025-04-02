@@ -1,0 +1,9 @@
+[
+ {
+    "name": "symfony/base-framework",
+    "label": "Symfony Basic Framwork",
+    "description": "Simple skeletton for symfony framwork",
+    "githubRepo": "flug/templates-recipes",
+    "tags": ["symfony", "php", "cli"]
+  }
+]
