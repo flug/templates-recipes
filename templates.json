@@ -1,4 +1,12 @@
 [
+
+ {
+    "name": "basic-project",
+    "label": "Basic Project without Framwork",
+    "description": "Simple repository for start a new project",
+    "githubRepo": "flug/basic-project",
+    "tags": ["all"]
+  },
  {
     "name": "symfony/base-framework",
     "label": "Symfony Basic Framwork",
